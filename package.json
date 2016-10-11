@@ -1,6 +1,10 @@
 {
   "name": "@testcross/core",
   "version": "0.0.1",
+  "description": "test core lib",
+  "license": "MIT",
+  "author": "alanjhonnes",
+  "private": false,
   "main": "./release/index.js",
   "scripts": {
     "build": "rm -rf release && tsc",
