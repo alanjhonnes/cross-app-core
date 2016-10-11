@@ -1,11 +1,11 @@
 {
-  "name": "@testcross/core",
+  "name": "cross-ng-app-core",
   "version": "0.0.1",
   "description": "test core lib",
   "license": "MIT",
   "author": "alanjhonnes",
   "private": false,
-  "main": "./release/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "rm -rf release && tsc",
     "prepublish": "tsc"
