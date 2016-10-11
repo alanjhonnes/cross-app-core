@@ -1,0 +1,11 @@
+{
+  "name": "cross-app-core",
+  "version": "0.0.1",
+  "main": "./release/index.js",
+  "scripts": {
+    "build": "rm -rf release && tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  }
+}
